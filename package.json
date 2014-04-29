@@ -1,0 +1,24 @@
+{
+  "name": "reservation-proxy",
+  "version": "0.0.1",
+  "description": "DP Reservation proxy proof of concept",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sparebits/reservation-proxy.git"
+  },
+  "keywords": [
+    "example",
+    "heroku",
+    "reservation"
+  ],
+  "author": "neyko",
+  "license": "BSD",
+  "dependencies": {
+    "logfmt": "~1.1.2",
+    "express": "~4.1.1"
+  }
+}
